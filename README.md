@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taigongjiang
-- 👀 I’m interested in IC circuits design, Brain-Machine Interfaces
+- 👀 I’m interested in IC circuits design, Brain-Machine Interfaces, Signal systems
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
